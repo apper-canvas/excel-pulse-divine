@@ -7,7 +7,7 @@ import Contacts from '@/components/pages/Contacts'
 import ContactDetail from '@/components/pages/ContactDetail'
 import Deals from '@/components/pages/Deals'
 import Tasks from '@/components/pages/Tasks'
-
+import Notifications from '@/components/pages/Notifications'
 function App() {
   return (
     <Router>
@@ -19,11 +19,12 @@ function App() {
             transition={{ duration: 0.3 }}
           >
             <Routes>
-              <Route path="/" element={<Dashboard />} />
+<Route path="/" element={<Dashboard />} />
               <Route path="/contacts" element={<Contacts />} />
               <Route path="/contacts/:id" element={<ContactDetail />} />
               <Route path="/deals" element={<Deals />} />
               <Route path="/tasks" element={<Tasks />} />
+              <Route path="/notifications" element={<Notifications />} />
             </Routes>
           </motion.div>
         </Layout>

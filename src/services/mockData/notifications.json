@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "title": "New Deal Created",
+    "message": "Deal 'Enterprise Software License' has been created by John Smith",
+    "type": "info",
+    "read": false,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "actionType": "deal_created",
+    "actionId": 1
+  },
+  {
+    "Id": 2,
+    "title": "Task Due Soon",
+    "message": "Task 'Follow up with TechCorp' is due in 2 hours",
+    "type": "warning",
+    "read": false,
+    "createdAt": "2024-01-15T09:15:00Z",
+    "actionType": "task_due",
+    "actionId": 2
+  },
+  {
+    "Id": 3,
+    "title": "Contact Updated",
+    "message": "Contact 'Sarah Johnson' has been updated with new information",
+    "type": "info",
+    "read": true,
+    "createdAt": "2024-01-15T08:45:00Z",
+    "actionType": "contact_updated",
+    "actionId": 3
+  },
+  {
+    "Id": 4,
+    "title": "Deal Won",
+    "message": "Congratulations! Deal 'Cloud Migration Project' has been won",
+    "type": "success",
+    "read": false,
+    "createdAt": "2024-01-15T08:00:00Z",
+    "actionType": "deal_won",
+    "actionId": 4
+  },
+  {
+    "Id": 5,
+    "title": "Task Completed",
+    "message": "Task 'Prepare proposal for ABC Corp' has been marked as completed",
+    "type": "success",
+    "read": true,
+    "createdAt": "2024-01-14T16:30:00Z",
+    "actionType": "task_completed",
+    "actionId": 5
+  },
+  {
+    "Id": 6,
+    "title": "New Contact Added",
+    "message": "New contact 'Michael Chen' has been added to the system",
+    "type": "info",
+    "read": true,
+    "createdAt": "2024-01-14T14:20:00Z",
+    "actionType": "contact_created",
+    "actionId": 6
+  },
+  {
+    "Id": 7,
+    "title": "Deal Lost",
+    "message": "Deal 'Website Redesign' has been marked as lost",
+    "type": "error",
+    "read": false,
+    "createdAt": "2024-01-14T11:45:00Z",
+    "actionType": "deal_lost",
+    "actionId": 7
+  },
+  {
+    "Id": 8,
+    "title": "Task Overdue",
+    "message": "Task 'Send contract to GlobalTech' is now overdue",
+    "type": "error",
+    "read": false,
+    "createdAt": "2024-01-14T09:30:00Z",
+    "actionType": "task_overdue",
+    "actionId": 8
+  }
+]

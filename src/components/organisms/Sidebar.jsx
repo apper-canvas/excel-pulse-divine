@@ -3,8 +3,9 @@ import { motion } from 'framer-motion'
 import ApperIcon from '@/components/ApperIcon'
 
 const Sidebar = () => {
-  const navigation = [
+const navigation = [
     { name: 'Dashboard', href: '/', icon: 'BarChart3' },
+    { name: 'Notifications', href: '/notifications', icon: 'Bell' },
     { name: 'Contacts', href: '/contacts', icon: 'Users' },
     { name: 'Deals', href: '/deals', icon: 'Target' },
     { name: 'Tasks', href: '/tasks', icon: 'CheckSquare' }
