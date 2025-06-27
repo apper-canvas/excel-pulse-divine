@@ -1,0 +1,110 @@
+[
+  {
+    "Id": 1,
+    "type": "Call",
+    "contactId": 1,
+    "dealId": 1,
+    "subject": "Enterprise Software License Discussion",
+    "notes": "Discussed pricing options and implementation timeline. Sarah is very interested in the enterprise package.",
+    "timestamp": "2024-01-20T14:30:00Z"
+  },
+  {
+    "Id": 2,
+    "type": "Email",
+    "contactId": 2,
+    "dealId": 2,
+    "subject": "SaaS Integration Proposal Sent",
+    "notes": "Sent detailed proposal for custom integration solution including timeline and pricing.",
+    "timestamp": "2024-01-19T16:45:00Z"
+  },
+  {
+    "Id": 3,
+    "type": "Meeting",
+    "contactId": 3,
+    "dealId": 3,
+    "subject": "Consulting Services Initial Meeting",
+    "notes": "Met with Emily to understand their digital transformation needs. Very promising opportunity.",
+    "timestamp": "2024-01-18T10:00:00Z"
+  },
+  {
+    "Id": 4,
+    "type": "Call",
+    "contactId": 4,
+    "dealId": 4,
+    "subject": "Startup Growth Package Overview",
+    "notes": "David is interested in growth solutions but needs to secure additional funding first.",
+    "timestamp": "2024-01-17T10:15:00Z"
+  },
+  {
+    "Id": 5,
+    "type": "Email",
+    "contactId": 5,
+    "dealId": 5,
+    "subject": "IT Infrastructure Contract Signed",
+    "notes": "Lisa approved and signed the infrastructure upgrade contract. Project kickoff scheduled.",
+    "timestamp": "2024-01-16T12:00:00Z"
+  },
+  {
+    "Id": 6,
+    "type": "Call",
+    "contactId": 6,
+    "dealId": 6,
+    "subject": "Marketing Automation Follow-up",
+    "notes": "James informed us they went with a different vendor due to budget constraints.",
+    "timestamp": "2024-01-15T09:30:00Z"
+  },
+  {
+    "Id": 7,
+    "type": "Email",
+    "contactId": 7,
+    "dealId": 7,
+    "subject": "Cloud Migration Introduction",
+    "notes": "Sent initial information about our cloud migration services to Anna.",
+    "timestamp": "2024-01-22T14:30:00Z"
+  },
+  {
+    "Id": 8,
+    "type": "Meeting",
+    "contactId": 8,
+    "dealId": 8,
+    "subject": "Strategic Partnership Discussion",
+    "notes": "Productive meeting with Robert about potential partnership opportunities. Very interested.",
+    "timestamp": "2024-01-21T11:20:00Z"
+  },
+  {
+    "Id": 9,
+    "type": "Call",
+    "contactId": 1,
+    "dealId": 1,
+    "subject": "Technical Requirements Review",
+    "notes": "Reviewed technical specifications and integration requirements with Sarah's team.",
+    "timestamp": "2024-01-18T15:00:00Z"
+  },
+  {
+    "Id": 10,
+    "type": "Email",
+    "contactId": 2,
+    "dealId": 2,
+    "subject": "Integration Timeline Clarification",
+    "notes": "Michael requested more details about the implementation timeline and milestones.",
+    "timestamp": "2024-01-17T13:20:00Z"
+  },
+  {
+    "Id": 11,
+    "type": "Meeting",
+    "contactId": 5,
+    "dealId": 5,
+    "subject": "Implementation Planning Session",
+    "notes": "Detailed planning session with Lisa's IT team for the infrastructure upgrade project.",
+    "timestamp": "2024-01-14T14:00:00Z"
+  },
+  {
+    "Id": 12,
+    "type": "Call",
+    "contactId": 8,
+    "dealId": 8,
+    "subject": "Partnership Terms Discussion",
+    "notes": "Discussed partnership structure and revenue sharing model with Robert.",
+    "timestamp": "2024-01-19T09:45:00Z"
+  }
+]

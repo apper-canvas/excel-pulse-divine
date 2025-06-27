@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "title": "Follow up on Enterprise Software proposal",
+    "description": "Call Sarah to discuss final pricing terms and contract details",
+    "dueDate": "2024-01-25T10:00:00Z",
+    "priority": "High",
+    "status": "Pending",
+    "contactId": 1,
+    "assignee": "Alex Johnson"
+  },
+  {
+    "Id": 2,
+    "title": "Prepare SaaS integration demo",
+    "description": "Create a customized demo showing the integration capabilities for Michael's use case",
+    "dueDate": "2024-01-28T14:00:00Z",
+    "priority": "Medium",
+    "status": "In Progress",
+    "contactId": 2,
+    "assignee": "Sarah Wilson"
+  },
+  {
+    "Id": 3,
+    "title": "Research Global Ventures requirements",
+    "description": "Analyze Emily's company needs and prepare initial consulting proposal",
+    "dueDate": "2024-01-30T09:00:00Z",
+    "priority": "High",
+    "status": "Pending",
+    "contactId": 3,
+    "assignee": "Mike Chen"
+  },
+  {
+    "Id": 4,
+    "title": "Schedule startup growth strategy meeting",
+    "description": "Set up a meeting with David to discuss scaling solutions",
+    "dueDate": "2024-02-05T11:00:00Z",
+    "priority": "Medium",
+    "status": "Pending",
+    "contactId": 4,
+    "assignee": "Lisa Rodriguez"
+  },
+  {
+    "Id": 5,
+    "title": "Complete IT infrastructure implementation",
+    "description": "Finalize the infrastructure upgrade deployment for MegaCorp Industries",
+    "dueDate": "2024-02-15T16:00:00Z",
+    "priority": "High",
+    "status": "In Progress",
+    "contactId": 5,
+    "assignee": "David Park"
+  },
+  {
+    "Id": 6,
+    "title": "Send quarterly check-in email",
+    "description": "Follow up with James to maintain relationship and explore future opportunities",
+    "dueDate": "2024-02-01T09:00:00Z",
+    "priority": "Low",
+    "status": "Pending",
+    "contactId": 6,
+    "assignee": "Emma Thompson"
+  },
+  {
+    "Id": 7,
+    "title": "Cloud migration assessment",
+    "description": "Conduct initial assessment of Anna's current infrastructure for cloud migration planning",
+    "dueDate": "2024-02-10T13:00:00Z",
+    "priority": "Medium",
+    "status": "Pending",
+    "contactId": 7,
+    "assignee": "Robert Kim"
+  },
+  {
+    "Id": 8,
+    "title": "Partnership agreement review",
+    "description": "Review and finalize partnership terms with Robert from Nexus Group",
+    "dueDate": "2024-02-20T15:00:00Z",
+    "priority": "High",
+    "status": "Pending",
+    "contactId": 8,
+    "assignee": "Jennifer Lee"
+  },
+  {
+    "Id": 9,
+    "title": "Update CRM contact information",
+    "description": "Verify and update all contact details in the system",
+    "dueDate": "2024-01-26T17:00:00Z",
+    "priority": "Low",
+    "status": "Completed",
+    "contactId": null,
+    "assignee": "Admin Team"
+  },
+  {
+    "Id": 10,
+    "title": "Prepare monthly sales report",
+    "description": "Compile and analyze sales data for January monthly report",
+    "dueDate": "2024-02-01T10:00:00Z",
+    "priority": "Medium",
+    "status": "In Progress",
+    "contactId": null,
+    "assignee": "Sales Analytics Team"
+  }
+]

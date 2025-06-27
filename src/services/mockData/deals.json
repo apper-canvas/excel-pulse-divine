@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "title": "Enterprise Software License",
+    "value": 150000,
+    "stage": "Negotiation",
+    "contactId": 1,
+    "probability": 85,
+    "closeDate": "2024-02-15T00:00:00Z",
+    "notes": "Large enterprise deal with multi-year contract potential. Sarah is very interested and we're in final negotiations on pricing.",
+    "createdAt": "2024-01-15T09:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "SaaS Platform Integration",
+    "value": 75000,
+    "stage": "Proposal",
+    "contactId": 2,
+    "probability": 70,
+    "closeDate": "2024-02-28T00:00:00Z",
+    "notes": "Michael needs a custom integration solution. Proposal includes development and support services.",
+    "createdAt": "2024-01-10T11:15:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Consulting Services Package",
+    "value": 200000,
+    "stage": "Qualified",
+    "contactId": 3,
+    "probability": 60,
+    "closeDate": "2024-03-15T00:00:00Z",
+    "notes": "Emily is looking for comprehensive consulting services for digital transformation. High value opportunity.",
+    "createdAt": "2024-01-18T08:30:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Startup Growth Package",
+    "value": 25000,
+    "stage": "Lead",
+    "contactId": 4,
+    "probability": 40,
+    "closeDate": "2024-04-01T00:00:00Z",
+    "notes": "David's startup is growing fast and needs scalable solutions. Budget is limited but growth potential is high.",
+    "createdAt": "2024-01-05T13:20:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "IT Infrastructure Upgrade",
+    "value": 300000,
+    "stage": "Closed Won",
+    "contactId": 5,
+    "probability": 100,
+    "closeDate": "2024-01-30T00:00:00Z",
+    "notes": "Successfully closed! Lisa approved the full infrastructure upgrade package. Implementation starts next month.",
+    "createdAt": "2023-12-20T15:45:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "Marketing Automation Tools",
+    "value": 45000,
+    "stage": "Closed Lost",
+    "contactId": 6,
+    "probability": 0,
+    "closeDate": "2024-01-15T00:00:00Z",
+    "notes": "James decided to go with a competitor due to budget constraints. Keep warm for future opportunities.",
+    "createdAt": "2023-11-30T10:10:00Z"
+  },
+  {
+    "Id": 7,
+    "title": "Cloud Migration Services",
+    "value": 125000,
+    "stage": "Lead",
+    "contactId": 7,
+    "probability": 30,
+    "closeDate": "2024-05-01T00:00:00Z",
+    "notes": "Anna is exploring cloud migration options. Early stage but shows strong interest in our services.",
+    "createdAt": "2024-01-22T14:00:00Z"
+  },
+  {
+    "Id": 8,
+    "title": "Strategic Partnership Deal",
+    "value": 500000,
+    "stage": "Qualified",
+    "contactId": 8,
+    "probability": 75,
+    "closeDate": "2024-03-30T00:00:00Z",
+    "notes": "Robert is interested in a strategic partnership that could lead to ongoing business. High value long-term opportunity.",
+    "createdAt": "2024-01-12T16:30:00Z"
+  }
+]

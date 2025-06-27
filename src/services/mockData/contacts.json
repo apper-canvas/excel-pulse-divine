@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "company": "TechCorp Solutions",
+    "position": "Chief Technology Officer",
+    "status": "Active",
+    "tags": ["Technology", "Enterprise", "VIP"],
+    "createdAt": "2024-01-15T09:00:00Z",
+    "lastActivity": "2024-01-20T14:30:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Michael Chen",
+    "email": "m.chen@innovateplus.com",
+    "phone": "+1 (555) 234-5678",
+    "company": "Innovate Plus",
+    "position": "Product Manager",
+    "status": "Customer",
+    "tags": ["SaaS", "Product", "Mid-Market"],
+    "createdAt": "2024-01-10T11:15:00Z",
+    "lastActivity": "2024-01-19T16:45:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Emily Rodriguez",
+    "email": "emily.r@globalventures.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "Global Ventures",
+    "position": "VP of Operations",
+    "status": "Lead",
+    "tags": ["Consulting", "Enterprise", "Hot Lead"],
+    "createdAt": "2024-01-18T08:30:00Z",
+    "lastActivity": "2024-01-18T08:30:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "David Wilson",
+    "email": "david.wilson@startupx.com",
+    "phone": "+1 (555) 456-7890",
+    "company": "StartupX",
+    "position": "Founder & CEO",
+    "status": "Active",
+    "tags": ["Startup", "Innovation", "Growth"],
+    "createdAt": "2024-01-05T13:20:00Z",
+    "lastActivity": "2024-01-17T10:15:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@megacorp.com",
+    "phone": "+1 (555) 567-8901",
+    "company": "MegaCorp Industries",
+    "position": "Director of IT",
+    "status": "Customer",
+    "tags": ["Enterprise", "IT", "Long-term"],
+    "createdAt": "2023-12-20T15:45:00Z",
+    "lastActivity": "2024-01-16T12:00:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "James Parker",
+    "email": "j.parker@digitalsolutions.com",
+    "phone": "+1 (555) 678-9012",
+    "company": "Digital Solutions Co",
+    "position": "Marketing Director",
+    "status": "Inactive",
+    "tags": ["Marketing", "Digital", "SMB"],
+    "createdAt": "2023-11-30T10:10:00Z",
+    "lastActivity": "2023-12-15T09:30:00Z"
+  },
+  {
+    "Id": 7,
+    "name": "Anna Martinez",
+    "email": "anna.martinez@cloudtech.com",
+    "phone": "+1 (555) 789-0123",
+    "company": "CloudTech Systems",
+    "position": "Sales Manager",
+    "status": "Lead",
+    "tags": ["Cloud", "SaaS", "New"],
+    "createdAt": "2024-01-22T14:00:00Z",
+    "lastActivity": "2024-01-22T14:00:00Z"
+  },
+  {
+    "Id": 8,
+    "name": "Robert Kim",
+    "email": "robert.kim@nexusgroup.com",
+    "phone": "+1 (555) 890-1234",
+    "company": "Nexus Group",
+    "position": "Business Development Manager",
+    "status": "Active",
+    "tags": ["Business Development", "Partnership", "Strategic"],
+    "createdAt": "2024-01-12T16:30:00Z",
+    "lastActivity": "2024-01-21T11:20:00Z"
+  }
+]
